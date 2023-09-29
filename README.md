@@ -1,2 +1,1 @@
-# Codsoft_Task-5
-CREDIT CARD FRAUD DETECTION PROJECT
+The Credit Card Fraud Detection Machine Learning Project employs logistic regression algorithm to identify fraudulent transactions within credit card data. By utilizing data preprocessing, feature selection, and anomaly detection techniques, this project enhances financial security by accurately distinguishing between genuine and fraudulent activities, helping financial institutions protect their customers from potential fraudsters.
